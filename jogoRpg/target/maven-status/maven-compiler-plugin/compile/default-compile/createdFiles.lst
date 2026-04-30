@@ -1,0 +1,11 @@
+com\mycompany\jogorpg\GameController.class
+com\mycompany\jogorpg\Jogo.class
+com\mycompany\jogorpg\SecondaryController.class
+com\mycompany\jogorpg\App.class
+com\mycompany\jogorpg\CriarPersonagemController.class
+com\mycompany\jogorpg\SecondaryController$1.class
+module-info.class
+com\mycompany\jogorpg\GameController$1.class
+com\mycompany\jogorpg\Personagem.class
+com\mycompany\jogorpg\GerenciadorPersonagens.class
+com\mycompany\jogorpg\PrimaryController.class
